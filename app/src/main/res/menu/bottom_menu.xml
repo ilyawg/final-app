@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/donate"
+        android:icon="@drawable/ic_baseline_attach_money_24"
+        android:title="@string/donate" />
+    <item
+        android:id="@+id/main"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/main" />
+    <item
+        android:id="@+id/license"
+        android:icon="@drawable/ic_baseline_copyright_24"
+        android:title="@string/license" />
+</menu>

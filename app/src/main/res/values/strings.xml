@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FinalApp</string>
+    <string name="donate">donate</string>
+    <string name="main">main</string>
+    <string name="license">license</string>
+    <string name="lbl_amount">Amount:</string>
+    <string name="lbl_ccy">Currency:</string>
+    <string name="lbl_email">Email:</string>
+    <string name="lbl_description">Description:</string>
+    <string name="btn_pay">donate</string>
+    <string name="donation">donation</string>
+    <string name="population">population</string>
+</resources>
